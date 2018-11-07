@@ -15,9 +15,9 @@ export default {
     return {
       title: "All Books",
       books: [
-        { title: "My Book", author: "Me" },
-        { title: "CLR", author: "Richter" },
-        { title: "Jungle Book", author: "R.Kipling" }
+        { title: "Self-Reliance", author: "Ralph Waldo Emerson" },
+        { title: "American Gods", author: "Neil Gaiman" },
+        { title: "Amusing Ourselves to Death", author: "Neil Postman" }
       ]
     };
   }
